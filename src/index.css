@@ -1,0 +1,21 @@
+label{
+    font-weight:bold;
+}
+#main{
+    width: 800px;
+    height: 450px;
+    background-color:dodgerblue;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 250px;
+}
+#form
+{
+    height: 350px;
+    width: 350px;
+    margin-top: 15px;
+    margin-left: 200px;
+}
+h1{
+    text-align: center;
+}
